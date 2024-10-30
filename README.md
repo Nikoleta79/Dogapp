@@ -10,7 +10,7 @@ Breed Selection: Users can select a breed from a dropdown to view images specifi
 
 Loading Animation: Displays a loading animation while the images are being fetched.
 
-Technologies Used
+Technologies Used:
 
 HTML5
 
